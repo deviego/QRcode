@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #021622;
+    font-family: sans-serif;
+  
+    text-align: center;
+    color: aliceblue;
+  }
+  main{
+    margin-top: 30%;
+  }
+  h1{
+    margin-bottom: 15px;
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  input {
+    padding: 5px;
+    width: 40vw;
+    margin-bottom: 10px;
+  
+    font-size: 18px;
+  }
+  
+  
